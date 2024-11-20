@@ -1,0 +1,8 @@
+Artificial Intelligence (AI) is a field of computer science that aims to create systems capable of 
+performing tasks that would normally require human intelligence. These tasks include reasoning, 
+problem-solving, understanding natural language, and perception. AI can be classified into two 
+main categories: narrow AI, which is designed for specific tasks, and general AI, which aims to 
+replicate human cognitive abilities.
+The history of AI dates back to ancient times, with myths and stories about artificial beings 
+endowed with intelligence. However, the formal establishment of AI as a discipline began in the mid-20th century. The term "artificial intelligence" was coined by John McCarthy in 1956 during the Dartmouth Conference, where researchers gathered to discuss the potential of machines to simulate human intelligence.
+In recent years, advancements in machine learning and neural networks have led to significant breakthroughs in AI capabilities. Technologies such as natural language processing and computer vision are now widely used in applications ranging from virtual assistants to autonomous vehicles.
